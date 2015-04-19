@@ -213,6 +213,7 @@ Most of the following packages are available in [[https://github.com/milkypostma
     - [[https://github.com/smihica/emmet-mode][emmet]] - [[http://emmet.io/][Emmet]] support for Emacs.
     - [[https://github.com/skeeto/skewer-mode][skewer-mode]] - live interact with JavaScript, CSS, and HTML in a web-browser.
     - [[https://github.com/skeeto/impatient-mode][impatient-mode]] - See your changes in the browser as you type.
+    - [[https://github.com/yasuyk/web-beautify][Web-beautify]] - Formatting package for HTML, CSS and JavaScript/JSON for Emacs using node.js javascript formatter.
 
 **** JavaScript
 
